@@ -1,0 +1,13 @@
+{
+  "name": "nexusforge-relay",
+  "version": "1.0.0",
+  "description": "No-port-forward WebSocket relay for NexusForge Unity multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["unity", "multiplayer", "relay", "websocket", "gamedev"],
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
